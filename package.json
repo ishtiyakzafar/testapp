@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
+    "@awesome-cordova-plugins/deeplinks": "^6.7.0",
     "@ionic/angular": "^8.0.0",
     "@ionic/cordova-builders": "^11.0.0",
     "ionicons": "^7.0.0",
